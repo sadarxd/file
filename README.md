@@ -2,7 +2,7 @@
 This Tool Is File Cloning Free Tools
 
 
-git clone https://github.com/MAHIN-71/FILE
+git clone https://github.com/sadarxd/FILE
 
 
 
